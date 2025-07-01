@@ -5,8 +5,8 @@ from datetime import datetime, timezone
 token = ""
 
 target_user_ids = [
-    123456789067427896,
-    127039328043807556
+    
+    
 ]
 
 start_date = datetime(2025, 1, 1, tzinfo=timezone.utc)
